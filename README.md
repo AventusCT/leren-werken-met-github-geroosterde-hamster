@@ -5,4 +5,4 @@
 
 ## Beschrijving
 Dit project bevat een web pagina.
-Deze pagina is alleen voor slimme docenten.
+Deze pagina is alleen voor slimme studenten.
