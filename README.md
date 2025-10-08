@@ -5,4 +5,4 @@
 
 ## Beschrijving
 Dit project bevat een web pagina
-nigger
+
