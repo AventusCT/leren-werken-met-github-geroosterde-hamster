@@ -4,5 +4,5 @@
 ## projectnaam: leren met git
 
 ## Beschrijving
-Dit project bevat een web pagina
-nigger
+Dit project bevat een web pagina.
+Deze pagina is alleen voor slimme docenten.
